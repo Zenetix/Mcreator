@@ -1,0 +1,579 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Rubis",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis"
+    },
+    {
+      "name": "RubisOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore"
+    },
+    {
+      "name": "RubisOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore_block_recipe"
+    },
+    {
+      "name": "RubisBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_block_ore_recipe"
+    },
+    {
+      "name": "RubisOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore_smelting"
+    },
+    {
+      "name": "Anneaux",
+      "type": "gui",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anneaux"
+    },
+    {
+      "name": "InvanneauxToucheEnfoncee",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "invanneaux_touche_enfoncee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invanneaux",
+      "type": "keybind",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "invanneaux"
+    },
+    {
+      "name": "Saphire",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire"
+    },
+    {
+      "name": "SaphireOre",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore"
+    },
+    {
+      "name": "SaphireBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_block"
+    },
+    {
+      "name": "SaphireOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore_block_recipe"
+    },
+    {
+      "name": "SaphireBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_block_ore_recipe"
+    },
+    {
+      "name": "SaphireOreSmelting",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore_smelting"
+    },
+    {
+      "name": "RubixBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubix_block_ore_recipe"
+    },
+    {
+      "name": "ArmureSaphireArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_saphire_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ArmureSaphireArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_saphire_armor_helmet_recipe"
+    },
+    {
+      "name": "ArmureSaphireArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_saphire_armor_body_recipe"
+    },
+    {
+      "name": "ArmureSaphireArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_saphire_armor_leggings_recipe"
+    },
+    {
+      "name": "ArmureSaphireArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_saphire_armor_boots_recipe"
+    },
+    {
+      "name": "RubisBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_block"
+    },
+    {
+      "name": "ArmureArmor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ArmureArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_armor_helmet_recipe"
+    },
+    {
+      "name": "ArmureArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_armor_body_recipe"
+    },
+    {
+      "name": "ArmureArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_armor_leggings_recipe"
+    },
+    {
+      "name": "ArmureArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_armor_boots_recipe"
+    },
+    {
+      "name": "OutilsRubisPickaxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_pickaxe"
+    },
+    {
+      "name": "OutilsRubisAxe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_axe"
+    },
+    {
+      "name": "OutilsRubisSword",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_sword"
+    },
+    {
+      "name": "OutilsRubisShovel",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_shovel"
+    },
+    {
+      "name": "OutilsRubisHoe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_hoe"
+    },
+    {
+      "name": "OutilsRubisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_pickaxe_recipe"
+    },
+    {
+      "name": "OutilsRubisAxeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_axe_recipe"
+    },
+    {
+      "name": "OutilsRubisSwordRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_sword_recipe"
+    },
+    {
+      "name": "OutilsRubisShovelRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_shovel_recipe"
+    },
+    {
+      "name": "OutilsRubisHoeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outils_rubis_hoe_recipe"
+    },
+    {
+      "name": "TableDeDecraft",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_de_decraft"
+    },
+    {
+      "name": "TableDeDecraftgui",
+      "type": "gui",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_de_decraftgui"
+    },
+    {
+      "name": "PlatineIngot",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_ingot"
+    },
+    {
+      "name": "PlatineOre",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_ore"
+    },
+    {
+      "name": "PlatineBlock",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_block"
+    },
+    {
+      "name": "PlatineOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_ore_block_recipe"
+    },
+    {
+      "name": "PlatineBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_block_ore_recipe"
+    },
+    {
+      "name": "PlatineOreSmelting",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platine_ore_smelting"
+    },
+    {
+      "name": "SaphireToolsPickaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_pickaxe"
+    },
+    {
+      "name": "SaphireToolsAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_axe"
+    },
+    {
+      "name": "SaphireToolsSword",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_sword"
+    },
+    {
+      "name": "SaphireToolsShovel",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_shovel"
+    },
+    {
+      "name": "SaphireToolsHoe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_hoe"
+    },
+    {
+      "name": "SaphireToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_pickaxe_recipe"
+    },
+    {
+      "name": "SaphireToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_axe_recipe"
+    },
+    {
+      "name": "SaphireToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_sword_recipe"
+    },
+    {
+      "name": "SaphireToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_shovel_recipe"
+    },
+    {
+      "name": "SaphireToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_tools_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.godmod.platine_ore": "Platine Ore",
+      "block.godmod.platine_block": "Block of Platine",
+      "key.mcreator.invanneaux": "Invanneaux",
+      "item.godmod.armure_saphire_armor_chestplate": "Saphire Chestplate",
+      "item.godmod.saphire_tools_pickaxe": "SaphireTools Pickaxe",
+      "item.godmod.outils_rubis_axe": "Rubis Axe",
+      "item.godmod.armure_armor_helmet": "Rubis Helmet",
+      "item.godmod.armure_armor_chestplate": "Rubis Chestplate",
+      "block.godmod.saphire_ore": "Saphire Ore",
+      "item.godmod.outils_rubis_sword": "Rubis Sword",
+      "block.godmod.rubis_block": "Rubis Block",
+      "item.godmod.saphire": "Saphire",
+      "item.godmod.armure_saphire_armor_boots": "Saphire Boots",
+      "item.godmod.saphire_tools_hoe": "SaphireTools Hoe",
+      "block.godmod.table_de_decraft": "Table De Decraft",
+      "item.godmod.armure_saphire_armor_helmet": "Saphire Helmet",
+      "item.godmod.armure_armor_leggings": "Rubis Leggings",
+      "item.godmod.armure_saphire_armor_leggings": "Saphire Leggings",
+      "block.godmod.saphire_block": "Block of Saphire",
+      "item.godmod.saphire_tools_shovel": "SaphireTools Shovel",
+      "item.godmod.armure_armor_boots": "Rubis Boots",
+      "block.godmod.rubis_ore": "Rubis Ore",
+      "item.godmod.rubis": "Rubis",
+      "item.godmod.saphire_tools_axe": "SaphireTools Axe",
+      "item.godmod.outils_rubis_hoe": "Rubis Hoe",
+      "item.godmod.saphire_tools_sword": "SaphireTools Sword",
+      "item.godmod.outils_rubis_pickaxe": "Rubis Pickaxe",
+      "item.godmod.outils_rubis_shovel": "Rubis Shovel",
+      "item.godmod.platine_ingot": "Platine"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "godmod",
+    "modName": "GodMod",
+    "version": "1.0.0",
+    "author": "malo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.godmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

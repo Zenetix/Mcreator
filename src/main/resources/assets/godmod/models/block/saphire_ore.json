@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "godmod:blocks/saphire_ore",
+    "up": "godmod:blocks/saphire_ore",
+    "north": "godmod:blocks/saphire_ore",
+    "east": "godmod:blocks/saphire_ore",
+    "south": "godmod:blocks/saphire_ore",
+    "west": "godmod:blocks/saphire_ore",
+    "particle": "godmod:blocks/saphire_ore"
+  }
+}

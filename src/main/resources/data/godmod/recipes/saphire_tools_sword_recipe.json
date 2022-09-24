@@ -1,0 +1,24 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:saphire"
+    },
+    "1": {
+      "item": "godmod:saphire"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "godmod:saphire_tools_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "godmod:blocks/rubis_ore",
+    "up": "godmod:blocks/rubis_ore",
+    "north": "godmod:blocks/rubis_ore",
+    "east": "godmod:blocks/rubis_ore",
+    "south": "godmod:blocks/rubis_ore",
+    "west": "godmod:blocks/rubis_ore",
+    "particle": "godmod:blocks/rubis_ore"
+  }
+}

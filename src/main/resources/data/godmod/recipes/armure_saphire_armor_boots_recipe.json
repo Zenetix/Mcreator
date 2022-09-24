@@ -1,0 +1,26 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:saphire"
+    },
+    "2": {
+      "item": "godmod:saphire"
+    },
+    "3": {
+      "item": "godmod:saphire"
+    },
+    "5": {
+      "item": "godmod:saphire"
+    }
+  },
+  "result": {
+    "item": "godmod:armure_saphire_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "godmod:blocks/platine_ore_block",
+    "particle": "godmod:blocks/platine_ore_block"
+  }
+}

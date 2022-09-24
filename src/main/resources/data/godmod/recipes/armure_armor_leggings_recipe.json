@@ -1,0 +1,36 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "1": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "godmod:rubis"
+    },
+    "3": {
+      "item": "godmod:rubis"
+    },
+    "5": {
+      "item": "godmod:rubis"
+    },
+    "6": {
+      "item": "godmod:rubis"
+    },
+    "8": {
+      "item": "godmod:rubis"
+    }
+  },
+  "result": {
+    "item": "godmod:armure_armor_leggings",
+    "count": 1
+  }
+}

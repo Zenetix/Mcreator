@@ -1,0 +1,30 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "1": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "godmod:rubis"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "godmod:outils_rubis_pickaxe",
+    "count": 1
+  }
+}

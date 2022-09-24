@@ -1,0 +1,13 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "godmod:saphire_block"
+    }
+  ],
+  "result": {
+    "item": "godmod:saphire",
+    "count": 9
+  }
+}

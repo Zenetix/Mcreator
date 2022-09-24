@@ -1,0 +1,13 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "godmod:rubis_block"
+    }
+  ],
+  "result": {
+    "item": "godmod:rubis",
+    "count": 9
+  }
+}

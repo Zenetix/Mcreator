@@ -1,0 +1,29 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:saphire"
+    },
+    "1": {
+      "item": "godmod:saphire"
+    },
+    "2": {
+      "item": "godmod:saphire"
+    },
+    "3": {
+      "item": "godmod:saphire"
+    },
+    "5": {
+      "item": "godmod:saphire"
+    }
+  },
+  "result": {
+    "item": "godmod:armure_saphire_armor_helmet",
+    "count": 1
+  }
+}

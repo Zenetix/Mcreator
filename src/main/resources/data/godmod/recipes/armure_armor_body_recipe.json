@@ -1,0 +1,39 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "godmod:rubis"
+    },
+    "3": {
+      "item": "godmod:rubis"
+    },
+    "4": {
+      "item": "godmod:rubis"
+    },
+    "5": {
+      "item": "godmod:rubis"
+    },
+    "6": {
+      "item": "godmod:rubis"
+    },
+    "7": {
+      "item": "godmod:rubis"
+    },
+    "8": {
+      "item": "godmod:rubis"
+    }
+  },
+  "result": {
+    "item": "godmod:armure_armor_chestplate",
+    "count": 1
+  }
+}

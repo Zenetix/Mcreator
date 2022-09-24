@@ -1,0 +1,42 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:saphire"
+    },
+    "1": {
+      "item": "godmod:saphire"
+    },
+    "2": {
+      "item": "godmod:saphire"
+    },
+    "3": {
+      "item": "godmod:saphire"
+    },
+    "4": {
+      "item": "godmod:saphire"
+    },
+    "5": {
+      "item": "godmod:saphire"
+    },
+    "6": {
+      "item": "godmod:saphire"
+    },
+    "7": {
+      "item": "godmod:saphire"
+    },
+    "8": {
+      "item": "godmod:saphire"
+    }
+  },
+  "result": {
+    "item": "godmod:saphire_block",
+    "count": 1
+  }
+}

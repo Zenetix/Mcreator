@@ -1,0 +1,42 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "1": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "godmod:rubis"
+    },
+    "3": {
+      "item": "godmod:rubis"
+    },
+    "4": {
+      "item": "godmod:rubis"
+    },
+    "5": {
+      "item": "godmod:rubis"
+    },
+    "6": {
+      "item": "godmod:rubis"
+    },
+    "7": {
+      "item": "godmod:rubis"
+    },
+    "8": {
+      "item": "godmod:rubis"
+    }
+  },
+  "result": {
+    "item": "godmod:rubix_block",
+    "count": 1
+  }
+}

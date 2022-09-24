@@ -1,0 +1,13 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "godmod:platine_block"
+    }
+  ],
+  "result": {
+    "item": "godmod:platine_ingot",
+    "count": 9
+  }
+}

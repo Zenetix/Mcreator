@@ -1,0 +1,24 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "1": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "godmod:outils_rubis_sword",
+    "count": 1
+  }
+}

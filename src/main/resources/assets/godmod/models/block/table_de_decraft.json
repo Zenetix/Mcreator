@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "godmod:blocks/downcraft",
+    "up": "godmod:blocks/topcraft",
+    "north": "godmod:blocks/leftcraft",
+    "east": "godmod:blocks/rightcraft",
+    "south": "godmod:blocks/leftcraft",
+    "west": "godmod:blocks/rightcraft",
+    "particle": "godmod:blocks/downcraft"
+  }
+}

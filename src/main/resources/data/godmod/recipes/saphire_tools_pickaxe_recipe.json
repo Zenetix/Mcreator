@@ -1,0 +1,30 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:saphire"
+    },
+    "1": {
+      "item": "godmod:saphire"
+    },
+    "2": {
+      "item": "godmod:saphire"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "godmod:saphire_tools_pickaxe",
+    "count": 1
+  }
+}

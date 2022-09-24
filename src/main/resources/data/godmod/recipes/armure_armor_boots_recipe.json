@@ -1,0 +1,26 @@
+{
+  "group": "godmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "godmod:rubis"
+    },
+    "2": {
+      "item": "godmod:rubis"
+    },
+    "3": {
+      "item": "godmod:rubis"
+    },
+    "5": {
+      "item": "godmod:rubis"
+    }
+  },
+  "result": {
+    "item": "godmod:armure_armor_boots",
+    "count": 1
+  }
+}
